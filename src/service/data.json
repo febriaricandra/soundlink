@@ -1,0 +1,97 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Start Playlist",
+            "cover": "https://res.cloudinary.com/febfebpro/image/upload/v1692717325/Start_Playlist_hpzjvt.png",
+            "tracks": [
+                {
+                    "id": 1,
+                    "title": "Track 1",
+                    "artist": "Artist 1",
+                    "album": "Album 1",
+                    "duration": 123,
+                    "audio": "https://res.cloudinary.com/febfebpro/video/upload/v1692791061/y2mate.com_-_Hindia_Cincin_Official_Lyric_Video_v7gcuu.mp3"
+                },
+                {
+                    "id": 2,
+                    "title": "Track 2",
+                    "artist": "Artist 2",
+                    "album": "Album 2",
+                    "duration": 123,
+                    "audio": "https://res.cloudinary.com/febfebpro/video/upload/v1692791061/y2mate.com_-_Hindia_Cincin_Official_Lyric_Video_v7gcuu.mp3"
+                },
+                {
+                    "id": 3,
+                    "title": "Track 3",
+                    "artist": "Artist 3",
+                    "album": "Album 3",
+                    "duration": 123,
+                    "audio": "https://res.cloudinary.com/febfebpro/video/upload/v1692791061/y2mate.com_-_Hindia_Cincin_Official_Lyric_Video_v7gcuu.mp3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Random Playlist",
+            "cover": "https://res.cloudinary.com/febfebpro/image/upload/v1692717326/Random_Playlist_sytqyf.png",
+            "tracks": [
+                {
+                    "id": 1,
+                    "title": "Track 1",
+                    "artist": "Artist 1",
+                    "album": "Album 1",
+                    "duration": 123,
+                    "audio": "https://res.cloudinary.com/febfebpro/video/upload/v1692791061/y2mate.com_-_Hindia_Cincin_Official_Lyric_Video_v7gcuu.mp3"
+                },
+                {
+                    "id": 2,
+                    "title": "Track 2",
+                    "artist": "Artist 2",
+                    "album": "Album 2",
+                    "duration": 123,
+                    "audio": "https://res.cloudinary.com/febfebpro/video/upload/v1692791061/y2mate.com_-_Hindia_Cincin_Official_Lyric_Video_v7gcuu.mp3"
+                },
+                {
+                    "id": 3,
+                    "title": "Track 3",
+                    "artist": "Artist 3",
+                    "album": "Album 3",
+                    "duration": 123,
+                    "audio": "https://res.cloudinary.com/febfebpro/video/upload/v1692791061/y2mate.com_-_Hindia_Cincin_Official_Lyric_Video_v7gcuu.mp3"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Study Playlist",
+            "cover": "https://res.cloudinary.com/febfebpro/image/upload/v1692718907/Playlist_Study_ud3dzk.png",
+            "tracks": [
+                {
+                    "id": 1,
+                    "title": "Track 1",
+                    "artist": "Artist 1",
+                    "album": "Album 1",
+                    "duration": 123,
+                    "audio": "https://res.cloudinary.com/febfebpro/video/upload/v1692791061/y2mate.com_-_Hindia_Cincin_Official_Lyric_Video_v7gcuu.mp3"
+                },
+                {
+                    "id": 2,
+                    "title": "Track 2",
+                    "artist": "Artist 2",
+                    "album": "Album 2",
+                    "duration": 123,
+                    "audio": "https://res.cloudinary.com/febfebpro/video/upload/v1692791061/y2mate.com_-_Hindia_Cincin_Official_Lyric_Video_v7gcuu.mp3"
+                },
+                {
+                    "id": 3,
+                    "title": "Track 3",
+                    "artist": "Artist 3",
+                    "album": "Album 3",
+                    "duration": 123,
+                    "audio": "https://res.cloudinary.com/febfebpro/video/upload/v1692791061/y2mate.com_-_Hindia_Cincin_Official_Lyric_Video_v7gcuu.mp3"
+                }
+            ]
+        }
+    ]
+}
